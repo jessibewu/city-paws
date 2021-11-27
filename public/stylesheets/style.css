@@ -1,3 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+}
+
 html {
   background-color: #4da5e4;
 }
@@ -9,3 +19,23 @@ html {
 .button {
   background-color: #f3b469;
 }
+
+/* img {
+  position: absolute;
+  top: 0;
+  left: 0;
+} */
+
+#marginTop {
+  margin-top: 50px;
+}
+
+.comments {
+  background-color: #f7f7eb;
+  border-radius: 10px;
+}
+
+.searchMargin {
+  margin-top: 10px;
+}
+
