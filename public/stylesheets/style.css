@@ -9,7 +9,7 @@
 }
 
 html {
-  background-color: #1e86d1;
+  background-color: #4da5e4;
 }
 
 .section {
@@ -20,11 +20,11 @@ html {
   background-color: #f3b469;
 }
 
-img {
+/* img {
   position: absolute;
   top: 0;
   left: 0;
-}
+} */
 
 #marginTop {
   margin-top: 50px;
@@ -37,5 +37,9 @@ img {
 
 .searchMargin {
   margin-top: 10px;
+}
+
+.searchTop {
+  margin-top: 25px;
 }
 
