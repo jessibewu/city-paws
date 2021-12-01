@@ -1,10 +1,11 @@
 # City Paws
 ## Description
-Many pet owners wish to take their pets to various places with them for training reasons, recreational reasons or otherwise! City Paws will satisfy these needs. It is a user-friendly app that lets you search pet friendly locations in Toronto.
+Most pet owners wish to take their pets to various places with them for training reasons, recreational reasons or otherwise! City Paws will satisfy these needs. It is a user-friendly app that lets you search pet friendly locations in Toronto.
 ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
   - [UserCase](#userCase)
+  - [TechnologiesUsed](#technologies used)
   - [License](#license)
   - [Credits](#credits)
 ## User Case/ Acceptance Test 
@@ -43,6 +44,21 @@ https://frozen-escarpment-88030.herokuapp.com/home
 
 ![screenshot](./public/images/screenshot.png)
 
+## Technologies used
+
+- axios
+- bcrypt
+- bulma
+- connect-session-sequelize
+- dotenv
+- express
+- express-handlebars
+- express-session
+- handlebars
+- mysql2
+- nodemon
+- sequelize
+  
 ## License
 This application is covered by [MIT](https://opensource.org/licenses/MIT) license. 
   
