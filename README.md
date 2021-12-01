@@ -35,7 +35,7 @@ Many pet owners wish to take their pets to various places with them for training
 
 File Structure Overview:
 
-![screenshot](./public/images/file-structure.png)
+<img src="./public/images/file-structure.png" width="250">
 
 ## Heroku Website (Deployed Application)
 https://frozen-escarpment-88030.herokuapp.com/home 
