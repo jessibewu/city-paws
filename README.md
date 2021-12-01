@@ -30,8 +30,9 @@ Many pet owners wish to take their pets to various places with them for training
 
 ## Installation ( 2 Methods)
 - Download or clone the repository 
-- Run npm install
-- Type "npm start"
+- Run `npm i`
+- Then run `npm run seed`
+- Then run `npm start`
 
 File Structure Overview:
 
