@@ -28,7 +28,7 @@ Many pet owners wish to take their pets to various places with them for training
 - Type of location : Cafe
 - Postal Code: M2J1L1
 
-## Installation ( 2 Methods)
+## Installation
 - Download or clone the repository 
 - Run `npm i`
 - Then run `npm run seed`
