@@ -8,6 +8,7 @@ Many pet owners wish to take their pets to various places with them for training
   - [License](#license)
   - [Credits](#credits)
 ## User Case/ Acceptance Test 
+```
 - AS a pet-owner, I WANT to be able to identify areas where I can bring my pet SO THAT I can live a quality lifestyle
 - GIVEN a sign up page
 - WHEN I sign up
@@ -19,6 +20,7 @@ Many pet owners wish to take their pets to various places with them for training
 - THEN the search results will show name,description, and location 
 - WHEN I add a review and click "Review"
 - THEN the review I added is posted
+```
 
 ## Sample User to login:
 - Email: theneman2@last.fm
@@ -32,6 +34,7 @@ Many pet owners wish to take their pets to various places with them for training
 - Type "npm start"
 
 File Structure Overview:
+
 ![screenshot](./public/images/file-structure.png)
 
 ## Heroku Website (Deployed Application)
