@@ -5,7 +5,7 @@ Most pet owners wish to take their pets to various places with them for training
   - [Description](#description)
   - [Installation](#installation)
   - [UserCase](#userCase)
-  - [TechnologiesUsed](#technologies used)
+  - [TechnologiesUsed](#technologiesUsed)
   - [License](#license)
   - [Credits](#credits)
 ## User Case/ Acceptance Test 
