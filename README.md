@@ -4,10 +4,12 @@ Most pet owners wish to take their pets to various places with them for training
 ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
-  - [UserCase](#userCase)
-  - [TechnologiesUsed](#technologiesUsed)
+  - [User Case](#userCase)
+  - [Technologies Used](#technologiesUsed)
   - [License](#license)
   - [Credits](#credits)
+
+<a name="userCase"></a>
 ## User Case/ Acceptance Test 
 ```
 - AS a pet-owner, I WANT to be able to identify areas where I can bring my pet SO THAT I can live a quality lifestyle
@@ -44,6 +46,7 @@ https://frozen-escarpment-88030.herokuapp.com/home
 
 ![screenshot](./public/images/screenshot.png)
 
+<a name="technologiesUsed"></a>
 ## Technologies used
 
 - axios
